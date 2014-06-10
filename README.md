@@ -1,7 +1,10 @@
 Annotated Bibliography
 ========================================================
 
-This is an repo demonstrating the use of a data base to build reports.  Here I store information around various articles in [ann_bib.xlsx](ann_bib.xlsx).  This approach uses R + knitr to create reports from a data base.  In the README, the process is not fully automated, however, it is in the .Rnw file ([Annotated_Bibliography.Rnw](Annotated_Bibliography.Rnw)).  Other possible uses include CV/Resume generation.
+This is an repo demonstrating the use of a data base to build reports.  Here I store information around various articles in [ann_bib.xlsx](ann_bib.xlsx).  This approach uses R + knitr to create reports from a data base.  The  process is fully automated in the .Rnw file ([Annotated_Bibliography.Rnw](Annotated_Bibliography.Rnw)) as it reads in the information from [ann_bib.xlsx](ann_bib.xlsx) and the bibligraphy, [refs.bib](refs.bib).  Other possible uses of a data base to report aproach include:
+
+- CV/Resume generation
+- ...   
 
 The [converting.R](converting.R) demonstrates how to use Pandoc to convert between file types.  
 
@@ -38,4 +41,4 @@ w <- "\\section{\\textcite{%s}}\n\n
 cat(sprintf(w, dat[, 1], dat[, 1], dat[, 2], dat[, 3], dat[, 4]))
 @
 ```
-```
+
