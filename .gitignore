@@ -1,0 +1,34 @@
+# History files
+.Rhistory
+
+# Example code in package build process
+*-Ex.R
+
+.Rprofile
+.Rproj.user
+Annotated_Bibliography.Rproj
+
+
+ann_bib.xlsx
+Annotated_Bibliography-concordance.tex
+Annotated_Bibliography.bbl
+Annotated_Bibliography.html
+Annotated_Bibliography.bcf
+Annotated_Bibliography.log
+Annotated_Bibliography.run.xml
+Annotated_Bibliography.synctex.gz
+
+Annotated_Bibliography-concordance.tex
+Annotated_Bibliography.aux
+Annotated_Bibliography.bbl
+Annotated_Bibliography.bcf
+Annotated_Bibliography.log
+Annotated_Bibliography.out
+Annotated_Bibliography.Rproj
+Annotated_Bibliography.run.xml
+Annotated_Bibliography.synctex
+Annotated_Bibliography.txt
+
+DESCRIPTION
+figure
+preamble.tex

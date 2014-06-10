@@ -1,0 +1,62 @@
+\documentclass[leavefloats]{apa6e}
+
+\input{preamble.tex}
+
+\addbibresource{refs.bib} 
+\begin{document}
+
+\newsavebox{\mytitle}
+\begin{lrbox}{\mytitle}
+\begin{tabular}{c}
+ % \normalfont Student Engagement with Mediational Tools in a Literacy Clinic: \\ \vspace{.5cm} \normalfont A Multimodal Examination of Clinician Designed Materials
+  \normalfont Annotated Bibliography: Hypertext Markup Language as the Scholarly Writing Canvass
+  %% Master of the Modes: A Multimodal Examination of Engagement with Clinician Designed Materials
+\end{tabular}
+\end{lrbox}
+
+\title{\usebox\mytitle}
+
+\shorttitle{Annotated Bibliography}
+\author{Tyler W. Rinker\\
+University at Buffalo/SUNY \\ \raggedright \vspace{8cm} LAI 615: Introduction to Curriculum, Instruction, and Science of Learning \\ Annotated Bibliography \\
+}
+\date{\today}
+\maketitle
+
+<<setup, include=FALSE, cache=FALSE>>=
+# set global chunk options
+opts_chunk$set(fig.path='figure/minimal-', fig.align='center', fig.show='hold')
+options(replace.assign=TRUE,width=90)
+@
+
+
+<<printing, echo=FALSE, results='asis', comment=NA, message=FALSE>>=
+library(xlsx)
+
+dat <- read.xlsx(file="ann_bib.xlsx", sheetIndex=1, colIndex=1:5)
+
+dat <- dat[rowSums(t(apply(dat, 1, is.na))) == 0, ]
+
+dat[, 1:4] <- lapply(1:4, function(i, type=c(rep("as.character", 4))) {
+    FUN <- match.fun(type[i])
+    x <- FUN(dat[, i])
+    x
+})
+
+w <- "\\section{\\textcite{%s}}\n\n
+\\negpar{\\textcolor{darkblue}{\\fullcite{%s}}}\n\n\n
+\\regpar\n\n\n
+\\subsection{Summary of Research Questions \\& Results/Conclusion} %% A short summary of the research question and results/conclusions (75-100 words)\n%s\n
+\\subsection{Evaluation of Methods \\& Conclusions} %% An evaluation of methods and conclusions (25-75) words.\n%s\n
+\\subsection{Significance to Topic} %% The contribution to your topic (why is this paper important?)\n%s\n
+%%==========================================================================\n\n"
+
+cat(sprintf(w, dat[, 1], dat[, 1], dat[, 2], dat[, 3], dat[, 4]))
+@
+
+
+\clearpage
+\printbibliography
+
+
+\end{document}

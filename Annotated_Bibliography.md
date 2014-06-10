@@ -1,0 +1,688 @@
+---
+author:
+- |
+    Tyler W. Rinker\
+    University at Buffalo/SUNY\
+     LAI 615: Introduction to Curriculum, Instruction, and Science of
+    Learning\
+    Annotated Bibliography\
+biblio-files: 'C:/Users/trinker/GitHub/Annotated_Bibliography/refs'
+bibliography: 'C:/Users/trinker/GitHub/Annotated_Bibliography/refs.bib'
+...
+
+  ------------------------------------------------------------------------------------
+   Annotated Bibliography: Hypertext Markup Language as the Scholarly Writing Canvass
+  ------------------------------------------------------------------------------------
+
+@Adams2002 {#section}
+==========
+
+
+
+<span> </span>
+
+Summary of Research Questions & Results/Conclusion
+--------------------------------------------------
+
+Advances in publishing in the twentieth century began with a move from
+manual processing to the use of typewriters and carbons up to the 1960s
+when “illustrations were engraved on wood or copper” (p. 29). By the
+middle of the century, electronic publishing was becoming a reality. The
+advent of affordable and accessible computers provided publishers with
+electronic files that could be readily printed with less intense manual
+labor. Little improvement for the author and editor has come of these
+technological advances. Publishers have assumed responsibility for much
+of the formerly outsourced printing.
+
+Evaluation of Methods & Conclusions
+-----------------------------------
+
+This historical piece provides an overview of the ways in which the
+mechanical and social processes around publishing have changed, yet the
+mention of virtual content, that is content published online, is not
+mentioned. This is surprising considering the 2002 publication year.
+
+Significance to Topic
+---------------------
+
+The historical overview from this chapter demonstrates how much has
+changed mechanically, yet how little the process has from a content
+perspective. The lack of description around publishing in an online
+format also demonstrates the failure to keep pace with developing
+advances in technology.
+
+@Anthes2012 {#section-1}
+===========
+
+
+
+<span> </span>
+
+Summary of Research Questions & Results/Conclusion
+--------------------------------------------------
+
+The latest installment of HTML (HTML5) is a simple way to mark a
+document in a way that a browser can interpret but provides users with
+interactive experiences. This is a fundamental shift from the static
+document storage employed on the Internet. HTML5 sets clear standards
+that makes writing in the language predictable and efficient. Its
+integration with Cascading Style Sheets (CSS) enables a flexible,
+powerful, and aesthetic presentation of the HTML language. Likewise, its
+integration with JavaScript provides real-time computation to make user
+experience more interactive. HTML5 also provides access to text based
+Scalable Vector Graphics (SVG) that yield compressible high quality
+representations of visuals. HTML is a continuously evolving language and
+thus “HTML is just HTML, we...dropped the number early last year. It’s
+just continuously developed, like the browsers.” (p. 17)
+
+Evaluation of Methods & Conclusions
+-----------------------------------
+
+The author provides an overview of the language’s current state of
+development, addresses areas of growth, and provides an account of its
+potentials.
+
+Significance to Topic
+---------------------
+
+This piece provides an understanding of how HTML is being developed and
+its potential uses as a publishing platform. It also provides a general
+technical sense of the language that can be repurposed for a general
+description within our argument.
+
+@Bazalgette2013 {#section-2}
+===============
+
+
+
+<span> </span>
+
+Summary of Research Questions & Results/Conclusion
+--------------------------------------------------
+
+The authors argue that the ways in which multimodal theory is taken up
+actually reinforces the very privilege to text it attempts to overcome.
+The authors contend that the scholarly writing of many multimodal
+authors (predominantly Kress) gives preference to the print based modes
+of written language and image. Additionally, the naming of texts as
+multimodal, when all text is multimodal, causes confusion in the field,
+with digital based modes considered to be multimodal. This leads to a
+loss of attention to the ways in which various modes interact to produce
+meaning.
+
+Evaluation of Methods & Conclusions
+-----------------------------------
+
+The authors provide a grounded argument for the misuses of the term
+multimodal. They also provide a broad picture of the modes in context
+that ought to be analyzed. The link between motion picture as a mode of
+special attention though was a bit weak. The authors provide information
+from a specific study and age group about media preferences. While I
+believe the conclusions are reasonable and grounded in more substantial
+work, the authors did not make this connection as strong as it
+could/should have been.
+
+Significance to Topic
+---------------------
+
+This position statement provides a sense of what should be considered in
+a multimodal analysis. It outlines the rich and complex nature of such
+studies and the insistence of high profile multimodal scholars to write
+about print based modes. This may be rooted in the print based medium
+available to scholars in presenting research. Print based modes are more
+easily discussed and demonstrated in print based medium. They are more
+likely to be pursued and deemed coherent. Conversely, HTML may afford
+new ways to present this rich material and encourage exploration of
+nonprint based modes as they would be more easily demonstrated in the
+interactive and flexible HTML platform.
+
+@Bezemer2011 {#section-3}
+============
+
+
+
+<span> </span>
+
+Summary of Research Questions & Results/Conclusion
+--------------------------------------------------
+
+These researchers investigate the use of multimodal transcripts.
+Specifically, asking how to transcribe, what to transcribe, and if
+researchers ought to transcribe multimodally. This study emphasizes the
+re-presentation of mode in transcription, that is the act of
+transduction. The authors argue that the act of transcription is never
+in isolation but a part of various academic processes. These contexts
+frame the transcript. The transcript is a mediator between the social
+situation and reader. No mode can perfectly re-present this original
+event, but some are better (due to social and historical rationale) at
+carrying the meaning for a particular “professional vision” (p. 196)
+
+Evaluation of Methods & Conclusions
+-----------------------------------
+
+The authors make a strong case for the use of, and “correct way” to
+conduct, multimodal transcription. They note that the act of
+transcribing is a form of analysis. The one criticism I have with the
+piece is that it purports that the transcript serves as a mediator
+between the event and the reader, yet the images used by the authors are
+grainy and difficult to read. There is a bit of inconsistency between
+what the authors profess and practice, possibly as a result of their own
+low skill/neglect or the limitations of the medium they were publishing
+in.
+
+Significance to Topic
+---------------------
+
+This piece indicates the complex nature of multimodal analysis and the
+need to convey the event to the reader. It also demonstrates that a
+poorer medium can cause reduced understanding of the meaning encoded in
+the modes re-presented. This serves as an example where the crisp string
+vector graphics allow for better display of image and the potential for
+interaction.
+
+@Dill2002 {#section-4}
+=========
+
+
+
+<span> </span>
+
+Summary of Research Questions & Results/Conclusion
+--------------------------------------------------
+
+Publishers do more than simply print a text. The majority of a
+publisher’s work is in formatting, editing, and assuring a work meets
+quality, content accuracy, and legal standards. The authors also imagine
+a format in which the reader will be able to interact with simulated
+text, specifically providing an example of a doctor practicing a heart
+transplant. Publishers consider the reader’s needs, the available modes,
+and attempt to augment the author’s work in order to more efficiently
+and effectively deliver knowledge. The role of publishers is needed more
+than ever in the new media age.
+
+Evaluation of Methods & Conclusions
+-----------------------------------
+
+The author concludes that the role of the publisher will continue to be
+needed in a new media age. They provide a sound logical argument for why
+the digital age will still require the expertise provided by the
+publishers, grounding the conclusion by presenting the overlooked,
+current role of publishers.
+
+Significance to Topic
+---------------------
+
+The fears of many publishers is that an electronic format could displace
+them. This piece takes an approach that includes the journal as a
+necessary entity in the move to HTML. This provides an argument that
+allows publishers to embrace a move to use HTML as the publishing
+platform.
+
+@Guns2013 {#section-5}
+=========
+
+
+
+<span> </span>
+
+Summary of Research Questions & Results/Conclusion
+--------------------------------------------------
+
+The authors investigate the term semantic web applied to the World Wide
+Web, which many argue to be a misnomer. The authors set out to determine
+what is semantic about the Web. This historical overview locates the
+advent of the World Wide Web in the year 1990 by CERN researchers Tim
+Berners-Lee and Robert Cailliau seeking a better medium for the “sharing
+of research data and results between scientists” (p. 2174). HTML was
+used to allow the computer to interface with the shared documents. The
+profound implications of metadata embedding and semantic elements enable
+the text to be indexed and displayed in different forms with simple mark
+up tags. Link typing, the ability to connect between certain HTML types,
+provides the strongest argument for the use of semantic to describe the
+Web.
+
+Evaluation of Methods & Conclusions
+-----------------------------------
+
+The authors make convincing case for the semantic term use in semantic
+web. They trace the historical roots of the Web and provide evidence as
+to the founders’ intentions and the structure that would enable the Web
+to be classified as semantic.
+
+Significance to Topic
+---------------------
+
+This piece evidences that HTML was originally designed by researchers,
+for researchers to share data and findings. It’s not a stretch then for
+researchers to reclaim this birthright.
+
+@Knapton2013 {#section-6}
+============
+
+
+
+<span> </span>
+
+Summary of Research Questions & Results/Conclusion
+--------------------------------------------------
+
+The author makes the argument that online sharing of audio and video
+data can reduce transcription demands and afford new interaction with
+readers. The author argues that transcripts are not raw data but an
+artifact, a first step of analysis of the raw data. The researcher faces
+choices about multimodal transcription including what to include,
+layout, and conventions. The author points out potential loss in
+meaning/understanding in the process of converting from spoken to
+written text. The transcription for non-verbal modes is laborious and
+may be unnecessary in presenting the data. The use of URLs, and embedded
+video/audio would allow the researcher to demonstrate the interaction
+between modes more efficiently.
+
+Evaluation of Methods & Conclusions
+-----------------------------------
+
+The argument for online release of data is entering brave new territory.
+The overview provides insightful, though unconvincing argument for
+releasing of audio and video data clips as part of the scholarly
+presentation. The argument stems from a need to make transcription
+easier. This should not be the drive of research. The secondary
+argument, that the reader can gain additional insight while preserving
+the integrity of the data in a more understandable mode is congruent
+with scientific aims. The author also makes the argument that readers
+will be able to make interpretations of the data directly. While this is
+somewhat promising, the idea that researcher analysis may become lost
+serves no scientific ends. The author makes an attempt to reconcile this
+potential slippery slope, but the devaluing of researcher analysis still
+is prevalent.
+
+Significance to Topic
+---------------------
+
+This piece begins the argument that we wish to make toward using HTML as
+the publishing canvass, but does not mention HTML (uses online) and by
+default misses the affordances of HTML beyond audio, video, and
+hyperlink in disseminating multimodal data. While the main argument of
+these researchers starts with transcription and ends with online as a
+means of efficiency, we will argue that HTML better displays multimodal
+data and provides the reader with a more meaningful interaction with
+modes that better communicate the narrative of the data.
+
+@Lie1999 {#section-7}
+========
+
+
+
+<span> </span>
+
+Summary of Research Questions & Results/Conclusion
+--------------------------------------------------
+
+HTML is a subset of Standard Generalized Markup Language (SGML). An SGML
+contains elements (plain text and mark up tags); within these elements
+is a start tag, with optional attributes, content (the text), and an
+ending tag. HTML (though it strays somewhat), as an SGML, focus on
+describing the content (metadata) rather than declaring presentation of
+the content (`b>  and \verb `i\> are obvious delineations from this
+standard). The actually presentation formatting is done through style
+sheets (e.g., CSS), that instruct browsers to present the content in a
+manner specified, that is the HTML tags and attributes are styled based
+on the commands presented in the style sheet. This system enables the
+content to be specified in flexible ways, for instance tags that display
+on a typical browser in a particular manner could be converted to audio
+or braille (for blind users).
+
+Evaluation of Methods & Conclusions
+-----------------------------------
+
+The authors are clear in their discussion the ways in which HTML, CSS
+and XML work together to bring content to various users. The discussion
+of the history, intentions, and shortfalls of HTML grant a broad
+conceptualization of how the language came to be and its potential for
+future application.
+
+Significance to Topic
+---------------------
+
+This article provides a great understanding of what HTML specifically is
+and is not. It is useful information in advocating for HTML in scholarly
+writing because it provides a clear explanation of how HTML can serve
+academia and the meaning that is conveyed.
+
+@Lynch1996 {#section-8}
+==========
+
+
+
+<span> </span>
+
+Summary of Research Questions & Results/Conclusion
+--------------------------------------------------
+
+A major issue regarding the integrity of electronic publishing is the
+idea that the document is not immutable. The traditional view of print
+based text holds that a strength of the system is that a record is
+consistent across copies. The author argues that this perception is not
+reality, that print based texts can be and are altered. He argues that
+the fluidity of electronic text is a policy issue related to management
+rather than a “weakness of technology” (p. 135). The authors do
+acknowledge that there are concerns with copying and altering that may
+lead to confusion and legal problems. The doctrine of first sale ensures
+a library has control of a document and may make it available to
+whomever. The document cannot be recalled, thus a subsequent edition is
+the only recourse to alter the historical record. The author proposes
+the use of digital identifiers such as MD-5 checksums used with computer
+programs.
+
+Evaluation of Methods & Conclusions
+-----------------------------------
+
+The author raises numerous concerns with document integrity that are
+built into the current print based system. While the author does propose
+the use of digital identifiers, few potential solutions are generated.
+Many of these questions that were not easily answered when the authored
+penned it are now able to be tackled. For instance, the use of Bitcoin
+as a digital, unregulated, currency, provides some direction in ensuring
+the integrity of an electronic journal formatting system. Electronic
+voting and tax filing also serve as a learning arena in which integrity
+is paramount. Scholarly publishing need not answer the author’s
+questions in isolation but draw from fields that have addressed the
+problem at some level. The Digital Object Identifier and API interface
+discussed by @Lie1999 may also provide a solution.
+
+Significance to Topic
+---------------------
+
+This article raises a major issue of integrity that must be considered
+in a move to an HTML frame work. The documents flexibility is a strength
+that also presents as a weakness compared to the historical integrity of
+a paper system. This weakness must be addressed before HTML can be
+acceptable to scholars and publishers.
+
+@Malinowski2011 {#section-9}
+===============
+
+
+
+<span> </span>
+
+Summary of Research Questions & Results/Conclusion
+--------------------------------------------------
+
+Drawing from the works of Saussure and Kress, this study focused on how
+meaning “designed in one mode” may affect the meaning of the constructed
+modes, recognizing multiplicative multimodal meaning, and the awareness
+of the multimodal author and its effect on generating multiplicative
+meaning. The authors conclude that linguistic signs are here to stay and
+“ can be understood and learned and taught as a substrate of other forms
+of textual meaning making” (p. 65) in much the same way that binary is
+the basis for all of digital technology. @Malinowski2011 end with a
+recommendation that “language learning and pedagogy must involve mastery
+of the fundamentals of intralinguistic systemic relations” (p. 65) while
+giving value to linguistic and non-linguistic modes.
+
+Evaluation of Methods & Conclusions
+-----------------------------------
+
+I find that the authors’ substrate conclusion is weakly supported by a
+single visual depiction of a single participant. Secondly, the argument
+uses an unfair analogy. Binary truly is the language all of digital
+technology is written in. Linguistic sign is not the underlying language
+of meaning. If this were true a child, with no linguistic ability, could
+not learn about linguistic signs because no meaning could be established
+without the initial linguistic sign. The later conclusion around
+multiplicative sign based pedagogy is more grounded in literature and
+the data.
+
+Significance to Topic
+---------------------
+
+This study provides a look at the complexity in analyzing and
+representing a small piece of multimodally transcribed data. This
+complexity can be represented linguistically, but a multiplicative use
+of modes provided by HTML, would enable the researcher to more partly
+convey intended meaning.
+
+@Nielsen1995a {#section-10}
+=============
+
+
+
+<span> </span>
+
+Summary of Research Questions & Results/Conclusion
+--------------------------------------------------
+
+Hypertext “consists of interlinked pieces of text (or other
+information)” (p. 2). The structure of hypertext is a network of nodes
+(text) and edges (links); hypertext is non-sequential in contrast to
+traditional linear text. The reader is given options and chooses the
+order and timing of information. Frank Halasz argues that the reader
+only sees a particular node at any given time. He posits that the
+network structure (the big picture of possible destinations) should be
+available to the reader at all times. The word multimedia is often used
+in place of hypertext to stress the linking of various media forms, not
+limited to text.
+
+Evaluation of Methods & Conclusions
+-----------------------------------
+
+The author provides an understanding of the non-linear nature of
+hypertext and logically argues for the availability of the entire
+network to the reader. The distinction between text and media is
+somewhat problematic within multimodal circles that would understand
+text to be more inclusive (thus no distinction between hypertext and
+hypermedia is necessary). Though this argument may be due in part to the
+time period of the writing (1995) and the fields the author draws from.
+The authors do not mention the possibility of mouse-over hypertext,
+though this is again due to the 1995 publication (generally, JavaScript
+and CSS drive a mouseover and came to popularity after the book’s
+publication). The author describes hypertext to be within a closed
+system of documents (e.g. HyperStudio) rather than a more powerful open
+system, linking to documents across the Internet (though this is
+addressed later in chapter 7).
+
+Significance to Topic
+---------------------
+
+This piece provides a definition of hypertext and provide an
+understanding of the nonlinearity of hypertext. The piece states the
+different reader experience(s) based on the click order of hypertext.
+This can be seen as a plus or a con in the argument for HTML as a
+publishing platform for scholarly work.
+
+@Nielsen1995b {#section-11}
+=============
+
+
+
+<span> </span>
+
+Summary of Research Questions & Results/Conclusion
+--------------------------------------------------
+
+Hypertext access in the context of the Internet over the World Wide Web
+(WWW or W3) refers to a networked linking of documents. Computers are
+connected to servers which in turn are connected to the global network
+(Internet) of computers. The standardized format for sharing text is
+HTML through a “standard communication protocol called HTTP (hypertext
+transfer protocol).” (p. 178) HTML is a means of marking text “according
+to its meaning” not its “physical display” (p. 191). This means browsers
+can interpret the tags freely, in a way that meets the specific demands
+of the operating system and user preferences. The tags also have the
+ability to be marked with attributes that provide additional flexibility
+and control of the meaning of the text being marked. A WYSIWYG (what you
+see is what you get) authoring tool allows the user to write a document
+with desired formatting without viewing the HTML tags that are inserted
+behind the scene.
+
+Evaluation of Methods & Conclusions
+-----------------------------------
+
+The author is limited in his view by the time period of the writing
+(before 1995), however, the basic description of the way the Internet is
+used to interface is still relevant. This passage explains commonly
+used, though not understood, digital terms such as HTTP, HTML, WWW,
+WYSIWYG, browser, and Internet.
+
+Significance to Topic
+---------------------
+
+This chapter provides definitions of several key terms that must be
+accurately and simply described in order to make the case to use HTML,
+displayed on a browser, to author and disseminate scholarly work.
+
+@Oda2002 {#section-12}
+========
+
+
+
+<span> </span>
+
+Summary of Research Questions & Results/Conclusion
+--------------------------------------------------
+
+An early eBook company, NuvoMedia, gained popularity when it was
+introduced the Rocket eBook in 1998. Print publishers were not early
+adopters of the eBook, however, in 2000, after Stephen King released an
+eBook novel, publishers quickly lined up to meet the consumer demand.
+Some publishers remained reluctant to adopt electronic publications as
+early adoption of CD-ROM publishing in the early ages of the new media
+resulted in great loss. Publishers may also be concerned with theft of
+digital property or being cut out as the middle-man between author and
+consumer.
+
+Evaluation of Methods & Conclusions
+-----------------------------------
+
+The author concludes that there are historical, social, and fiscal
+reasons a publisher may be reluctant to adopt a new media. This is
+insightful and may be outside of the typical thinking a consumer may
+have towards adopting a new product.
+
+Significance to Topic
+---------------------
+
+While this piece pertains to book publishing, the same fiscal
+uncertainty is relevant to journal publishers. This historical context
+provides a deeper understanding of the possible reluctance to adopt HTML
+as a publishing canvas.
+
+@Peek1996a {#section-13}
+==========
+
+
+
+<span> </span>
+
+Summary of Research Questions & Results/Conclusion
+--------------------------------------------------
+
+Journals began as a way for scholars to communicate with other scholars,
+that is to share works-in-progress. One of the first uses of a journal
+in communication dates to the 1640s when a growing group of scholars
+“who met regularly at Oxford University” (calling themselves the
+Invisible College and renamed to the Royal Society) required a means to
+communicate beyond in person meetings. The size of the group and limited
+communicational technologies led to the development of the first
+scholarly journal, the *Philosophical Transactions of the Royal Society
+of London*, in 1665 (p. 5). The original intent was to communicate and
+maintain an archived record. Modern means of communication and ease of
+travel have altered the objectives of scholarly journals. A major part
+of this change is the shift to a “paperless environment” (p. 6) .
+
+Evaluation of Methods & Conclusions
+-----------------------------------
+
+This chapter provides insights into the historical rationale for a paper
+system, the potentials of a paperless system, and hurdles and problems
+such a move would entail. This divergent piece opens up many questions
+and enables the reader to gain a better perspective on the larger
+problem.
+
+Significance to Topic
+---------------------
+
+This chapter provides insight into the origins and original intentions
+of scholarly publishing. It also will enable us to address possible
+concerns that using HTML (A paperless system) may generate in scholarly
+writing.
+
+@Pierce2012 {#section-14}
+===========
+
+
+
+<span> </span>
+
+Summary of Research Questions & Results/Conclusion
+--------------------------------------------------
+
+This study examined the ecosystem created by and acting upon ESL
+participants. The study takes a geomsemiotic stance that views the
+environment as a necessary part of the interaction and discourse between
+participants. The author contends that power constructs between social
+actors may determine spatial context which in turn impacts and is
+impacted upon by social actors. The study also revealed the classroom
+space can impact movement within the classroom.
+
+Evaluation of Methods & Conclusions
+-----------------------------------
+
+This trailblazing study examines classroom discourse in a complex and
+ecological way, considering the social actors, discourse, power, agency,
+and space. It is ambitious and may set a precedent in contemplating the
+complexity of an educational event. The complexity overwhelms the reader
+at times, keeping track of multiple participants, in multiple sites,
+interacting over 7 months. Considering that the study partially examined
+classroom space a graphic representation of the floor plan augmented
+with densities or marked motion paths would have enabled the reader to
+better comprehend the spaces described, more so than photographic
+snapshots that framed the event in a narrow fashion. Additionally, the
+term “body gloss” is used, though never explicitly defined. The
+descriptions of movement, gaze, proximetrics, and other sign systems are
+minimally, or not grounded, within related theory [e.g.,
+@McNeil1996; @McNeil2005; @Norris2004; @Norris2009].
+
+Significance to Topic
+---------------------
+
+This piece demonstrates the complex questions researchers are asking and
+the complex situations they are attempting to model. The piece
+demonstrates the constraining impact that paper oriented medium has on
+the ability to represent the data and convey the complex interactions to
+the reader in an efficient and coherent manner.
+
+@Raman2009 {#section-15}
+==========
+
+
+
+<span> </span>
+
+Summary of Research Questions & Results/Conclusion
+--------------------------------------------------
+
+This study provides a historical evolution of the World-Wide-Web,
+beginning as a less refined implementation of HTTP, HTML, and URLS
+working in conjunction. HTML has undergone a period of market, browser
+driven standards to a more stable, browser independent standards. The
+role of the browser is critical in providing an interface to the Web,
+but should not dictate how documents are constructed. More recent
+implementations of HTML, CSS, JavaScript, APIs, and browsers have
+generated a more dependable and portable integration.
+
+Evaluation of Methods & Conclusions
+-----------------------------------
+
+The authors provide a historical accounting of HTLM, HTTP, and URL that
+have struggled and evolved. It provides an accounting of the impact of
+the browser glossed over, or not seen, in other historical accounts.
+
+Significance to Topic
+---------------------
+
+This piece provides an argument for the dependability of HTML as a
+scholarly publishing canvass. It also highlights the role of the browser
+as the GUI to the content. The piggybacking of standing structures
+(including the modern browser) makes development and maintaining an HTML
+publishing platform highly attainable.
