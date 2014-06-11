@@ -75,9 +75,9 @@ bibliography: 'C:/Users/trinker/GitHub/Annotated_Bibliography/refs.bib'
     -   Evaluation of Methods & Conclusions
     -   Significance to Topic
 
-  ------------------------------------------------------------------------------------
-   Annotated Bibliography: Hypertext Markup Language as the Scholarly Writing Canvass
-  ------------------------------------------------------------------------------------
+  -----------------------------------------------------------------------------------
+   Annotated Bibliography: Hypertext Markup Language as the Scholarly Writing Canvas
+  -----------------------------------------------------------------------------------
 
 @Adams2002 {#section}
 ==========

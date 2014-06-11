@@ -9,7 +9,7 @@
 \begin{lrbox}{\mytitle}
 \begin{tabular}{c}
  % \normalfont Student Engagement with Mediational Tools in a Literacy Clinic: \\ \vspace{.5cm} \normalfont A Multimodal Examination of Clinician Designed Materials
-  \normalfont Annotated Bibliography: Hypertext Markup Language as the Scholarly Writing Canvass
+  \normalfont Annotated Bibliography: Hypertext Markup Language as the Scholarly Writing Canvas
   %% Master of the Modes: A Multimodal Examination of Engagement with Clinician Designed Materials
 \end{tabular}
 \end{lrbox}
